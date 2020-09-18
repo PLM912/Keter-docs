@@ -1,5 +1,5 @@
 # 케테르 봇 사용법
-Keter bot is a multi-purpose discord chatbot created by the SiDis Moderator team.
+케테르 봇은 ShiDis 모더레이터 팀에서 만든 다용도 봇입니다.
 
 # Disclaimer
 
