@@ -15,5 +15,5 @@
 - .알림 : <strike> weeeeeeeeeeeeeeeeeeebboooooooooooooooooooo </strike>
 - .질문 : 8ball에게 질문을 물어볼 수 있습니다.
 - .커피 : 랜덤한 커피 사진을 받습니다.
-- .평가 : 어떤 것을 평가합니다.
+- .평가 : 어떤 대상을 평가합니다.
 - .핫 : 유저가 얼마나 핫한지 알려줍니다.
