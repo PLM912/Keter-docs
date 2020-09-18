@@ -3,3 +3,4 @@
     - [Help](help.md)
     - Commands
         - [경제](economy.md)
+        - [재미](fun.md)
