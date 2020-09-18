@@ -12,8 +12,8 @@
 - .색 : 색의 정보를 알 수 있습니다.
 - .술 : 다른 사람에게 맥주를 줍니다.
 - .슈프림 : 텍스트로 슈프림 로고를 만듭니다.      
-- .알림 : weeeeeeeeeeeeeeeeeeebboooooooooooooooooooo
+- .알림 : <strike> weeeeeeeeeeeeeeeeeeebboooooooooooooooooooo </strike>
 - .질문 : 8ball에게 질문을 물어볼 수 있습니다.
 - .커피 : 랜덤한 커피 사진을 받습니다.
 - .평가 : 어떤 것을 평가합니다.
-- .핫 : 어떤 유져가 얼마나 핫한지 알려줍니다.
+- .핫 : 유저가 얼마나 핫한지 알려줍니다.
