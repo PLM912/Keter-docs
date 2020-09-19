@@ -4,3 +4,4 @@
     - Commands
         - [경제](economy.md)
         - [재미](fun.md)
+        - [관리자](moderation.md)
