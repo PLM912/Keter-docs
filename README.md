@@ -1,4 +1,4 @@
-# 케테르 봇 사용법
+# Keter Docs
 This page is an explanatory document about Keter bot.
 https://keter.netlify.app/
 
