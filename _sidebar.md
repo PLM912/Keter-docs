@@ -2,6 +2,7 @@
 - Docs
     - [한국어](한국어.md)
     - Commands
+        - [답해](answer_ko.md)
         - [경제](economy.md)
         - [재미](fun.md)
         - [관리자](moderation.md)
